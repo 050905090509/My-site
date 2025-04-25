@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <title>徐昊杲 教授個人簡介</title>
+    <style>
+        body {
+            font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+            background-color: #f2f2f2;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 900px;
+            margin: 40px auto;
+            background: white;
+            padding: 40px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        .profile-img {
+            width: 250px;
+            border-radius: 8px;
+            float: right;
+            margin-left: 30px;
+        }
+        h1 {
+            color: #2c3e50;
+            font-size: 36px;
+            margin-bottom: 10px;
+        }
+        h2 {
+            color: #3498db;
+            font-size: 22px;
+            margin-top: 0;
+        }
+        p {
+            font-size: 18px;
+            line-height: 1.8;
+            color: #555;
+            text-align: justify;
+        }
+        .slogan {
+            font-size: 20px;
+            color: #e67e22;
+            margin-top: 30px;
+            font-weight: bold;
+            text-align: center;
+        }
+        .clearfix::after {
+            content: "";
+            display: table;
+            clear: both;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="clearfix">
+            <img src="IMG_3406.jpeg" alt="徐昊杲 教授照片" class="profile-img">
+            <h1>徐昊杲 教授</h1>
+            <h2>技職教育推動者</h2>
+            <p>您好，我是徐昊杲，一位致力於技職教育發展的教育工作者。多年來，我的研究與實務重點聚焦於技術型高級中等學校及技專體系，特別關注教師專業成長、產學合作、課程設計與校外實習制度的深化與創新。我相信，技職教育不只是技能的訓練場域，更是培養學生實踐力與創造力的重要基地。</p>
+
+            <p>在學術與政策領域，我參與多項教育部與相關單位的委託計畫，推動高職群科教師專業評鑑指標的制定，參與技職教育再造與產學合作模式建構，致力於縮短學用落差，提升學生職場即戰力。</p>
+
+            <p>我也經常深入高中職與科大校園，進行教師研習、課程諮詢與經驗分享，堅信優質技職教育仰賴教師持續成長與現場支持。未來，我將持續以研究與實踐並進，連結教育、產業與社會，推動技職教育邁向多元、彈性與專業的未來。</p>
+        </div>
+
+        <div class="slogan">
+            技職為本，實作育才，連結產業、成就未來。
+        </div>
+    </div>
+</body>
+</html>
